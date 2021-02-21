@@ -1,0 +1,15 @@
+A* algorithm heuristics: fewest-nodes
+Step-by-Step: No
+Starting node: R0
+
+The final solution is:
+R0 to B16 distance: 1,
+B16 to R61 distance: 1,
+R61 to B5 distance: 1,
+B5 to R3 distance: 1,
+R3 to B2 distance: 1,
+B2 to R20 distance: 1,
+R20 to B18 distance: 1,
+B18 to O distance: 1,
+*****************************************************************************************
+Total path distance: 8
