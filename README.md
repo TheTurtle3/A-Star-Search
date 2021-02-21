@@ -14,4 +14,5 @@ to the goal node “O”. Extra credit for a visual implementation.
 Simply run the search.py file.
 
 ### With Visual
-Running the visual_search.py file requires the pygame library.
+Running the visual_search.py file requires the pygame library to be installed 
+on the computer.
